@@ -1,0 +1,28 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+
+
+main{
+  margin: auto;
+  margin-top: 25px;
+  align-items: center;
+  width: 90%;
+  height: 500px;
+  background-color: rgba(230, 215, 215, 0.486);
+  display: flex;
+  border-radius: 35px;
+  justify-content: space-around;
+}
+
+.grafico{
+  width: 600px;
+  height: 300px;
+}
+
+.ImgLinkParaOLinkedin{
+  margin-top: 30px;
+ display: flex;
+ justify-content: center;
+}
